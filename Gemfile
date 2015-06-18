@@ -5,7 +5,7 @@ gem 'rails', '4.1.0'
 gem 'sqlite3', group: [:development, :test]
 
 #Use bootstrap library for styles
-gem 'bootstrap-sass', '3.1.1'
+gem 'bootstrap-sass', '3.2.0.2'
 
 # Use postgresql as the database for production
 group :production do
@@ -14,7 +14,7 @@ group :production do
 end
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
-# Use Uglifier as compressor for JavaScript assets
+# Use Uglifier as compressor for JavaScript 
 gem 'uglifier', '1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
 gem 'coffee-rails', '4.0.0'
